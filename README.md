@@ -1,60 +1,52 @@
-# Daniel Rosa
-> Senior Software Engineer | Developer Tools Specialist | Open Source Contributor
+# Hi there! I'm Daniel Rosa 👋
 
-## About Me
-Professional Software Engineer with a focus on creating developer tools and maintaining high-quality codebases. Dedicated to improving development workflows and team productivity through innovative solutions.
+> A Full Cycle developer that loves the challenge that just programming provides and to solve bugs and create scalable applications to brands.
 
-## Core Competencies
-```⚡ Developer Tools Development   [█████████░] 90%```  
-```⚡ TypeScript/JavaScript        [████████░░] 80%```  
-```⚡ Node.js Development         [████████░░] 80%```  
-```⚡ System Architecture         [███████░░░] 70%```  
-```⚡ Code Quality & Testing      [████████░░] 80%```  
-```⚡ CI/CD Implementation        [███████░░░] 70%```
+## What Drives Me 🎯
+```⚡ Making Developer Lives Easier  [█████████░] 90%```  
+```⚡ Clean, Maintainable Code      [████████░░] 80%```  
+```⚡ Problem Solving               [████████░░] 80%```  
+```⚡ Learning & Growing            [█████████░] 90%```  
+```⚡ Building Community            [███████░░░] 70%```
 
-## Technical Proficiency
+## My Technical Journey 🛠️
+I've spent years honing my craft in:
 
-### Languages & Runtime
+### Daily Companions
 - TypeScript/JavaScript
-- Node.js
-- HTML/CSS
+- Node.js & Python
+- React & NextJS
+- Vite & NestJS
+- Django & Go
 
-### Frameworks & Tools
-- React.js & Next.js
-- Git & GitHub Actions
-- npm Package Development
-- Build Systems (tsup, webpack)
+### Favorite Tools
+- Git (because history matters)
+- npm Package Development (sharing is caring)
+- CI/CD (automating the boring stuff)
 
-### Development Practices
-- Clean Code Architecture
-- Test-Driven Development
-- Continuous Integration
-- Performance Optimization
+## Proud Creations 💡
 
-## Notable Projects
-
-### 📦 Folder Validator
-*Node.js package for maintaining consistent project structures*
+### Folder Validator
+*My contribution to happier development teams*
 
 ![npm version](https://badge.fury.io/js/folder-validator.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Node.js Version](https://img.shields.io/node/v/folder-validator)
 
-- Zero-dependency implementation
-- Real-time structure validation
-- Configurable validation rules
-- CI/CD integration support
+This is my solution to a common problem: keeping project structures consistent across teams. It's like having a friendly guardian for your codebase that ensures everything stays where it should be.
 
-## Professional Focus
-- Building scalable developer tools
-- Optimizing development workflows
-- Contributing to open-source projects
-- Implementing best practices in software architecture
+**What makes it special:**
+- Zero dependencies (because simplicity matters)
+- Real-time validation (catching issues before they become problems)
+- Developer-friendly configuration (because life's too short for complicated setups)
 
-## Connect
+## Let's Connect! 🤝
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielrrosa)
 [![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/folder-validator)
 
 ---
-*"Crafting tools that empower developers to build better software."*
+
+> "I believe the best code is the one that makes other developers smile. Whether it's through clean architecture, helpful tools, or just good documentation, I'm here to make that happen."
+
+*Always coding, always learning, always growing* ✨
