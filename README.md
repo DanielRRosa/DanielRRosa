@@ -1,28 +1,60 @@
-# Hi, my name is Daniel! Nice to meet you and welcome to my GitHub account.
+# Daniel Rosa
+> Senior Software Engineer | Developer Tools Specialist | Open Source Contributor
 
-## 👨‍💻 About Me
-I'm a web dev with a passion for creating tools that make developers' lives easier. I believe in maintaining high code quality and consistent project structures, which led me to create the Folder Validator package.
+## About Me
+Professional Software Engineer with a focus on creating developer tools and maintaining high-quality codebases. Dedicated to improving development workflows and team productivity through innovative solutions.
 
-## 🛠️ Notable Projects
-- **Folder Validator**: A Node.js package that ensures consistency in application folder structures across development teams
-  - Published on npm with automated validation features
-  - Built with zero runtime dependencies for optimal performance
+## Core Competencies
+```⚡ Developer Tools Development   [█████████░] 90%```  
+```⚡ TypeScript/JavaScript        [████████░░] 80%```  
+```⚡ Node.js Development         [████████░░] 80%```  
+```⚡ System Architecture         [███████░░░] 70%```  
+```⚡ Code Quality & Testing      [████████░░] 80%```  
+```⚡ CI/CD Implementation        [███████░░░] 70%```
 
-## 💼 Technical Skills
-- Node.js Development
-- JavaScript/TypeScript/
-- Package Development
-- Developer Tools
-- Project Structure & Organization
+## Technical Proficiency
 
-## 🌟 Values
-- Code Quality
-- Developer Experience
-- Project Consistency
-- Open Source Contribution
+### Languages & Runtime
+- TypeScript/JavaScript
+- Node.js
+- HTML/CSS
 
-## 📫 Connect
-You can find my work on npm through my published packages like [folder-validator](https://www.npmjs.com/package/folder-validator).
+### Frameworks & Tools
+- React.js & Next.js
+- Git & GitHub Actions
+- npm Package Development
+- Build Systems (tsup, webpack)
 
-## 🔖 License
-My open source work is typically released under the MIT License, promoting free and open collaboration.
+### Development Practices
+- Clean Code Architecture
+- Test-Driven Development
+- Continuous Integration
+- Performance Optimization
+
+## Notable Projects
+
+### 📦 Folder Validator
+*Node.js package for maintaining consistent project structures*
+
+![npm version](https://badge.fury.io/js/folder-validator.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Node.js Version](https://img.shields.io/node/v/folder-validator)
+
+- Zero-dependency implementation
+- Real-time structure validation
+- Configurable validation rules
+- CI/CD integration support
+
+## Professional Focus
+- Building scalable developer tools
+- Optimizing development workflows
+- Contributing to open-source projects
+- Implementing best practices in software architecture
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielrrosa)
+[![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/folder-validator)
+
+---
+*"Crafting tools that empower developers to build better software."*
